@@ -13,5 +13,7 @@ int main()
 
 	cout << "Esta modificación es antes que el merge!" << endl;
 
+	cout << "Esta modificación ya es despues del merge!" << endl;
+
 	return 0;	
 }
